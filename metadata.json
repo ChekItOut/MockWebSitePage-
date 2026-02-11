@@ -1,0 +1,5 @@
+{
+  "name": "Lumina 3D Gen",
+  "description": "A cutting-edge landing page featuring a generative 3D environment powered by Gemini API, allowing users to dynamically transform the visual and textual theme of the site.",
+  "requestFramePermissions": []
+}
